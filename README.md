@@ -7,4 +7,4 @@ Il s'agit d'un jupyter notebook contenant des cellules exécutables en python. C
 Les cellules contenant du code sont directement éxécutables en cliquant sur "Exécuter".   
 
 
-[![binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fbruneau3/NSI-continuite-pedagogique/master)
+[![binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fbruneau3/Initiation-Python/master)
