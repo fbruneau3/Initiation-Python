@@ -1,5 +1,5 @@
 # Initiation-Python
-Doucle-cliquer sur le lien ci-dessous pour démarrer mybinder. cela peut prendre un certain temps. Il faut être patient.
+Doucle-cliquer sur le lien mybinder ci-dessous pour démarrer mybinder. Cela peut prendre un certain temps. Il faut être patient.
 
 Vous pouvez ensuite ouvrir le fichier "Python pour la PC.ipynb" en double-cliquant également dessus.
 Il s'agit d'un jupyter notebook contenant des cellules exécutables en python. Cela permet de travailler en ligne sans rien avoir à installer sur votre ordinateur.
