@@ -5,6 +5,6 @@ Doucle-cliquer sur le lien "Launch Binder" ci-dessous pour démarrer mybinder (l
 Vous pouvez ensuite ouvrir le fichier "Python pour la PC.ipynb" en double-cliquant également dessus.
 Il s'agit d'un jupyter notebook contenant des cellules exécutables en python. Cela permet de travailler en ligne sans rien avoir à installer sur votre ordinateur.
 Les cellules contenant du code sont directement éxécutables en cliquant sur "Exécuter".   
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fbruneau3/Initiation-Python.git/master)
 
 
-https://mybinder.org/v2/gh/fbruneau3/NSI-2020-2021/12d9d23facb4b7d5a1ea98425b6b0d3b680d631f
